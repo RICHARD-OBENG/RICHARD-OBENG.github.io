@@ -1,5 +1,7 @@
-title: Richard Obeng
-logo: assets/img/richrad-obeng.jpeg
+title: "Richard Obeng"
 description: Machine Learning Engineer
+baseurl: "/portfolio"
+url: "https://richard-obeng.github.io"
+logo: "/richard-obeng/assets/img/richrad-obeng.jpeg"
 show_downloads: true
-theme: Minimal
+theme: minimal
